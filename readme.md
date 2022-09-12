@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 - In the [feature importance plot](https://github.com/hsuyab/project_final/blob/master/feature_importance_plot.png), we see that most important feature is the `Carat Weight` which makes sense from modeling perspective.
 
-- The webserver folder contains the Dockerfile as well as code to run the flask api.
+- The webserver folder contains the [Dockerfile](https://github.com/hsuyab/project_final/blob/master/webserver/Dockerfile) as well as code to run the flask api.
 
 - This work was done on *AWS Cloud* on a `t2.xlarge` instance.
 
