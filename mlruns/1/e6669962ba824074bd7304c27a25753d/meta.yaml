@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ubuntu/project_final/mlruns/1/e6669962ba824074bd7304c27a25753d/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e6669962ba824074bd7304c27a25753d
+run_uuid: e6669962ba824074bd7304c27a25753d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1663009102730
+status: 1
+tags: []
+user_id: ubuntu
