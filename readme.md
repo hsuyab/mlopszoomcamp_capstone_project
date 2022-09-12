@@ -36,6 +36,8 @@ pip install -r requirements.txt
 - Including monitoring and model orchestration.
 - Using IaaC, terraform to automate the instance creation.
 
+# Acknowledgement
+- I would like to thank the [DataTalkClub](https://datatalks.club/) - Alexey and the entire team for such and amazing learning experience. Thanks a lot.
 
 
 
